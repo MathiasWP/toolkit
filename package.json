@@ -26,13 +26,13 @@
     ".": {
       "types": "./dist/portable-text-toolkit.d.ts",
       "source": "./src/index.ts",
-      "require": "./dist/portable-text-toolkit.js",
+      "require": "./dist/portable-text-toolkit.cjs",
       "import": "./dist/portable-text-toolkit.esm.js",
       "default": "./dist/portable-text-toolkit.esm.js"
     },
     "./package.json": "./package.json"
   },
-  "main": "./dist/portable-text-toolkit.js",
+  "main": "./dist/portable-text-toolkit.cjs",
   "module": "./dist/portable-text-toolkit.esm.js",
   "source": "./src/index.ts",
   "types": "./dist/portable-text-toolkit.d.ts",

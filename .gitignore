@@ -46,5 +46,5 @@ jspm_packages
 .cache
 
 # Compiled Portable Text toolkit + docs
-/dist
+# /dist Needed for local fork
 /docs
